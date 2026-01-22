@@ -2,7 +2,6 @@
 
 A classic memory card matching game built with **React**, **Vite**, **Tailwind CSS**, and a **Node.js** backend. Test your memory skills and compete for the top spot on the leaderboard!
 
-![Memory Game Preview](https://via.placeholder.com/800x400?text=Game+Screenshot+Placeholder)
 ## ✨ Features
 
 - **Interactive Gameplay**: Smooth 3D card flip animations and matching logic.
@@ -48,6 +47,7 @@ Server will start on ```http://localhost:5000```
    node index.js
 
 4. **Setup Frontend**
+   ```bash
    cd ..
    cd frontend/memoryMania
 
